@@ -1,3 +1,15 @@
+# This fork
+
+This fork mostly contains the config file for my CPU architecture MCPU.
+
+I want to be able to run a project I initially created for the 8bitworkshop IDE
+on the command-line.
+
+I also might try to embed this into other (web) projects in the future.
+
+YMMV.
+
+
 # NANOASM
 
 A tiny configurable assembler for Verilog projects, as described in the book "[Designing Video Game Hardware in Verilog](https://www.amazon.com/gp/product/1728619440/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1728619440&linkCode=as2&tag=pzp-20&linkId=c149f6365c0a676065eb6d7c5f8dd6ae)" and integrated into the [8bitworkshop](https://8bitworkshop.com/) online Verilog IDE.

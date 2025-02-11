@@ -1,2 +1,4 @@
 *~
 node_modules/
+src/assembler.js
+src/asmmain.js
